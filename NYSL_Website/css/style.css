@@ -1,0 +1,121 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(../img/backgroundMobile3.jpg);
+    /* background-color: #C7D6D9; */
+}
+h2{
+    font-size: 5vw;
+}
+
+#headerPhoto{
+    width: 100%;
+}
+.navbarTitle{
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    font-size: 6vw;
+    color: white;
+    width: 78%;
+    padding-left: 5%;
+}
+
+.navStyle{
+    margin: .5vw;
+    border: .8vw solid #A2F229;
+    background-color: #033540;
+    border-radius: 2vw;
+    width: 100%;
+}
+
+.navItem{
+    color: whitesmoke;
+    font-size: 4vw;
+}
+
+.toogle{
+    border-color: #A2F229;
+}
+
+.toogleCustomIcon{
+    height: 6vw;
+}
+.logSign{
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-size: 3vw;
+}
+.logIn{
+    border-color: #A2F229;
+    font-family: 'Oswald', sans-serif;
+    font-size: 4.5vw;
+    height: 8vw;
+    border-radius: 1vw;
+    padding: 0vw 1vw 0vw 1vw;
+    background-color: transparent;
+    color: #A2F229;
+}
+.first-paragraph{
+    width: 95vw;
+}
+.form-check{
+    display: inline-block
+}
+.form-check input[type= checkbox]{
+    transform: scale(3);
+    position: unset;
+    margin-top: 0;
+    margin-left: 0;
+}
+.form-check-label {
+    padding: 1vw;
+}
+.btnLogSign{
+    display: block;
+    font-size: 3vw;
+    margin-top: 1vw;
+    padding: 0;
+    width: 10vw;
+}
+.bodycontent{
+    display: inline-block;
+    font-family: 'Oswald', sans-serif;
+    margin: 1vw .5vw 1vw .5vw;
+    font-size: 4.5vw;
+    width: 100%;
+}
+#upcoming{
+    display: block;
+    border: .1vw solid #033540;
+    border-radius: 2vw;
+    background: rgba(199, 214, 217, .7);
+    padding: 4vw;
+}
+#infotable{
+    display: block;
+    border: .1vw solid #033540;
+    border-radius: 2vw;
+    background: rgba(199, 214, 217, .7);
+    padding: 1vw;
+    height: 80vw;
+    overflow-y: scroll;
+    font-family: 'Oswald', sans-serif;
+}
+#adInformation {
+    display: block;
+    border: .1vw solid #033540;
+    border-radius: 2vw;
+    background: rgba(199, 214, 217, .7);
+    font-size: 3.5vw;
+    font-family: 'Oswald', sans-serif;
+    margin-top: 3vw;
+    padding: 1vw;
+}
+
+
