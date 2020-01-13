@@ -118,4 +118,31 @@ h2{
     padding: 1vw;
 }
 
+.container2{
+    display: block;
+}
+.extraData{
+    margin: 1vw .5vw 1vw .5vw;
+    width: 66%;
+    font-family: 'Oswald', sans-serif;
+    display: block;
+    border: .1vw solid #033540;
+    border-radius: 2vw;
+    background: rgba(199, 214, 217, .7);
+    font-size: 2.5vw;
+    display: inline-block;
+    text-align: justify;
+    padding: 1vw;
+    height: 25vw;
+}
+.maps{
+    height: 25vw;
+    display: flex;
+    float: right;
+    width: auto;
+    border-radius: 2vw;
+    margin: 1vw .5vw 1vw .5vw;
+
+}
+
 
